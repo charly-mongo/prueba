@@ -68,8 +68,7 @@ const menuData = {
         { name: "Coca-Cola", ingredients: "Refresco 600ml", price: 30 },
         { name: "Coca-Cola Light", ingredients: "Refresco 600ml", price: 30 },
         { name: "Sprite", ingredients: "Refresco 600ml", price: 30 },
-        { name: "Fanta Naranja", ingredients: "Refresco 600ml", price: 30 },
-        { name: "Fanta Fresa", ingredients: "Refresco 600ml", price: 30 },
+        { name: "Fanta", ingredients: "Refresco 600ml", price: 30 },
         { name: "Fresca", ingredients: "Refresco 600ml", price: 30 },
         { name: "Manzana Lift", ingredients: "Refresco 600ml", price: 30 },
         { name: "Agua Natural", ingredients: "Botella 600ml", price: 30 },
@@ -116,5 +115,5 @@ const deliveryZones = {
     norte: { name: "Zona Norte", cost: 30 },
     sur: { name: "Zona Sur", cost: 35 },
     oriente: { name: "Zona Oriente", cost: 40 },
-    poniente: { name: "Zona Poniente", cost: 40 }
+    poniente: { name: "Bonaterra", cost: 80 }
 };
